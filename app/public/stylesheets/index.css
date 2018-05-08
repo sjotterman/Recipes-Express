@@ -1,0 +1,12 @@
+body {
+  padding-top: 90px; /* fixes bootstrap navbar hiding content */
+  font-family: Sans-Serif;
+}
+
+table th {
+  padding: 5px;
+}
+
+.users-api-loading-preload {
+  font-size: 3em;
+}
